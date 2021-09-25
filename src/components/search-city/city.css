@@ -1,0 +1,25 @@
+.card{
+    background-color: white;
+    width:auto;
+    height:auto;
+    padding:5px;
+    margin:10px;
+    border:1px solid #eee;
+    text-align:center;
+    box-shadow:0 20x 3px #ccc;
+    box-sizing: border-box;
+}
+.input{
+  height:40px;
+  width:300px;
+  border-radius:20px;
+  margin:10px;
+}
+.btn{
+    width:100px;
+    height:40px;
+    background-color:blue;
+    color:white;
+    border-radius:20px;
+
+}
